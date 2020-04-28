@@ -30,4 +30,3 @@ done
 totalSalary=$(( $totalEmployeeHrs * $WAGE_PER_HRS ))
 dailyWage[totalWorkingDays]=$totalSalary
 echo daily wages along with total wages : ${dailyWage[@]}
-
