@@ -1,4 +1,5 @@
 #!/bin/bash -x
+# employee wages computation using switch case 
 WAGE_PER_HRS=20
 IS_FULL_TIME=1
 IS_PART_TIME=2
